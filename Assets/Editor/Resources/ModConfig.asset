@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: CaptchaModule
+  title: I'm Not a Robot
+  author: TheDarkSid3r
+  description: 'Prove, prove, prove.
+
+    Prove you''re not a robot. Look at these curvy letters.
+
+    Much curvier than most letters, wouldn''t you say? No robot could ever read these.
+
+    You look mortal, if ye be. You look, and then you type what you think you see.
+
+    Is it an E, or is it a 3? That''s up to ye.
+
+    The passwords have passed, you''ve correctly guessed, but now it''s time for the
+    robot test!
+
+    I''ve devised a question no robot could ever answer.
+
+
+
+    Which of these pictures does not have a ticking bomb in it?'
+  version: 1.0
+  outputFolder: D:\Steam\steamapps\common\Keep Talking and Nobody Explodes\mods
+  previewImage: {fileID: 2800000, guid: 4cbde5464964d644c9faf0d0a691d320, type: 3}
